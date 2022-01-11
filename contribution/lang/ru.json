@@ -276,9 +276,8 @@
  	 	 	 	"eng": "You need to be at least level 3 to access unit exchange"
  	 	 	},
  	 	 	"defaultLines": {
- 	 	 	 	"trans": [
- 	 	 	 	 	"Do you want to buy Units, or use your Units?"
- 	 	 	 	],
+ 	 	 	 	"trans": "Купить Units или использовать ваши Units?",
+ 	 	 	 	         
  	 	 	 	"eng": [
  	 	 	 	 	"Do you want to buy Units, or use your Units?"
  	 	 	 	]
@@ -299,7 +298,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hi! Donate to get cosmetic perks and to help support Free-to-Win games like this one!"
+ 	 	 	 	 	"Привет! Купи эти косметические перки и помоги бесплатным играм, как эта!"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hi! Donate to get cosmetic perks and to help support Free-to-Win games like this one!"
@@ -317,7 +316,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"I'll print whatever you want if you have the cache!"
+ 	 	 	 	 	"Я напечатаю все, что ты хочешь, если у тебя есть на это деньги!"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"I'll print whatever you want if you have the cache!"
@@ -331,7 +330,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"You will find the best gear here, trust me."
+ 	 	 	 	 	"Здесь ты найдешь лучшее снаряжение, поверь мне."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"You will find the best gear here, trust me."
@@ -357,7 +356,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"I'll help you to progress to the next area!"
+ 	 	 	 	 	"Я помогу тебе попасть на следующую локацию!"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"I'll help you to progress to the next area!"
@@ -371,7 +370,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hey kid... Come check out my goods."
+ 	 	 	 	 	"Хей дружок... Взгляни на эти вещички."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid... Come check out my goods."
@@ -389,7 +388,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Welcome. What can I store for you?"
+ 	 	 	 	 	"Добро пожаловать. Что я могу вам предложить?"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Welcome. What can I store for you?"
@@ -411,7 +410,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Insert a Calibration Core into the machine, and I shall help you calibrate any of your equipment."
+ 	 	 	 	 	"Помести калибровачное ядро в механизм, а я попробую откалибровать что-то из твоих вещей."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Insert a Calibration Core into the machine, and I shall help you calibrate any of your equipment."
@@ -433,7 +432,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hey kid, I'm Lee, You know, you don't have to carry everything you own in your pockets."
+ 	 	 	 	 	" Здарова, меня зовут Ли. Ты же знаешь, что вовсе не обязан таскать все свои вещи в карманах."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid, I'm Lee, You know, you don't have to carry everything you own in your pockets."
@@ -1379,7 +1378,7 @@
  	 	 	 	 	"maxStack",
  	 	 	 	 	"time"
  	 	 	 	],
- 	 	 	 	"trans": "Shard, который содержит Advance Esloodits, предназначенные для увеличения шансов случайных капель высокого уровня. Получает дополнительный шанс снижения легендарных (${legendaryChance}%) и Epic (${epicChance}%) элементов при разблокировании легендарных контейнеров (стек до ${maxStack} раз) за ${time} минут. Дополнительный шанс получить тайный контейнер во время рождественского сезона.",
+ 	 	 	 	"trans": "Осколок, который содержит продвинутые эксплойты, предназначенные для увеличения шансов случайных капель высокого уровня. Получает дополнительный шанс снижения легендарных (${legendaryChance}%) и эпических (${epicChance}%) элементов при разблокировании легендарных контейнеров (стек до ${maxStack} раз) за ${time} минут. Дополнительный шанс получить тайный контейнер во время рождественского сезона.",
  	 	 	 	"eng": "A shard that contains advance exploits designed to increase random drop chance of high tier items. Gains additional drop chance of Legendary (${legendaryChance}%) and Epic (${epicChance}%) items when unlocking Legendary containers (stack up to ${maxStack} times) for ${time} minutes. Extra chance to get Mystery Container during Christmas season."
  	 	 	},
  	 	 	"descriptionv3": {
@@ -1389,7 +1388,7 @@
  	 	 	 	 	"maxStack",
  	 	 	 	 	"time"
  	 	 	 	],
- 	 	 	 	"trans": "Shard, который содержит Advance Esloodits, предназначенные для увеличения шансов случайных капель высокого уровня. Получает дополнительный шанс падения легендарным (${legendaryChance}%) и Epic (${epicChance}%) элементы при разблокировании легендарных контейнеров (не стекабели) за ${time} минуту. * Важно: BUFF применится только при запуске процесса разблокировки во время активного использования BUFF *.",
+ 	 	 	 	"trans": "Осколок, который содержит продвинутые эксплойты, предназначенные для увеличения шансов случайных капель высокого уровня. Получает дополнительный шанс выпадения легендарных (${legendaryChance}%) и эпически (${epicChance}%) элементов при разблокировании легендарных контейнеров (не стакаются) за ${time} минуту. * Важно: BUFF применится только при запуске процесса разблокировки во время активного использования BUFF *.",
  	 	 	 	"eng": "A shard that contains advance exploits designed to increase random drop chance of high tier items. Gains additional drop chance of Legendary (${legendaryChance}%) and Epic (${epicChance}%) items when unlocking Legendary containers (Not stackable) for ${time} minute (Applies to all players). *IMPORTANT: The buff will only apply when the unlocking process is started while the buff is active*."
  	 	 	}
  	 	},
@@ -3132,7 +3131,7 @@
  	 	 	 	"eng": "Crafting"
  	 	 	},
  	 	 	"onlyShowCraftable": {
- 	 	 	 	"trans": "Скрыть рецепты, которые вы можете сделать ремесло",
+ 	 	 	 	"trans": "Скрыть рецепты, которые вы не можете создать",
  	 	 	 	"eng": "Hide recipes that you can\\'t craft"
  	 	 	}
  	 	},
@@ -3712,41 +3711,41 @@
  	 	},
  	 	"m1Dmg": {
  	 	 	"name": {
- 	 	 	 	"trans": "Животных немезис",
+ 	 	 	 	"trans": "Убийца Животных",
  	 	 	 	"eng": "Animals Nemesis"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Увеличивает урон банде «Enemies of Animals»",
+ 	 	 	 	"trans": "Увеличивает урон по врагам из группировки Животные",
  	 	 	 	"eng": "Increases damage to Enemies of Animals gang"
  	 	 	}
  	 	},
  	 	"m2Dmg": {
  	 	 	"name": {
- 	 	 	 	"trans": "Вуду Немезис",
+ 	 	 	 	"trans": "Убийца Вудуистов",
  	 	 	 	"eng": "Voodoo Nemesis"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Увеличивает урон банде «Enemies of Voodoo Boys»",
+ 	 	 	 	"trans": "Увеличивает урон по врагам из группировки Вуду",
  	 	 	 	"eng": "Increases damage to Enemies of Voodoo Boys gang"
  	 	 	}
  	 	},
  	 	"m3Dmg": {
  	 	 	"name": {
- 	 	 	 	"trans": "Молитвенные немезис",
+ 	 	 	 	"trans": "Убийца Мусорщиков",
  	 	 	 	"eng": "Scavengers Nemesis"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Увеличивает урон банде «Enemies of Scavengers»",
+ 	 	 	 	"trans": "Увеличивает урон по врагам из группировки Мусорщиков",
  	 	 	 	"eng": "Increases damage to Enemies of Scavengers gang"
  	 	 	}
  	 	},
  	 	"m1V": {
  	 	 	"name": {
- 	 	 	 	"trans": "Летал",
+ 	 	 	 	"trans": "Смертельный",
  	 	 	 	"eng": "Lethal"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Увеличивает урон банде «Enemies of Scavengers»",
+ 	 	 	 	"trans": "Увеличивает урон Мусорщиков по Вам",
  	 	 	 	"eng": "Enemies of Scavengers gang deals increased damage to you"
  	 	 	}
  	 	},
@@ -3756,17 +3755,17 @@
  	 	 	 	"eng": "Disruptor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Банда «Enemies of Animals» наносит вам повышенный урон",
+ 	 	 	 	"trans": "Увеличивает урон Животных по Вам",
  	 	 	 	"eng": "Enemies of Animals gang deals increased damage to you"
  	 	 	}
  	 	},
  	 	"m3V": {
  	 	 	"name": {
- 	 	 	 	"trans": "Мерзкий",
+ 	 	 	 	"trans": "Импровизированный",
  	 	 	 	"eng": "Makeshift"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Банда «Enemies of Voodoo Boys» наносит вам повышенный урон",
+ 	 	 	 	"trans": "Увеличивает урон Вудуистов по вам",
  	 	 	 	"eng": "Enemies of Voodoo Boys gang deals increased damage to you"
  	 	 	}
  	 	}
@@ -3958,7 +3957,7 @@
  	 	 	 	"eng": "Don't ask me again"
  	 	 	},
  	 	 	"reviewLater": {
- 	 	 	 	"trans": "оценить позже",
+ 	 	 	 	"trans": "Оценить позже",
  	 	 	 	"eng": "review later"
  	 	 	}
  	 	},
@@ -4238,7 +4237,7 @@
  	},
  	"statusEffect": {
  	 	"pirate": {
- 	 	 	"trans": "Эксплойт для чата [Пират]",
+ 	 	 	"trans": "Эксплойт для чата [PIRATE]",
  	 	 	"eng": "Chat Exploit [PIRATE]"
  	 	},
  	 	"leet": {
@@ -4250,7 +4249,7 @@
  	 	 	"eng": "Chat Exploit [UwU]"
  	 	},
  	 	"love": {
- 	 	 	"trans": "Эксплойт для чата [Любовь]",
+ 	 	 	"trans": "Эксплойт для чата [LOVE]",
  	 	 	"eng": "Chat Exploit [LOVE]"
  	 	},
  	 	"chatExploitProtect": {
@@ -4624,7 +4623,7 @@
  	 	 	 	 	"eng": "Unlock profile picture customization"
  	 	 	 	},
  	 	 	 	"3": {
- 	 	 	 	 	"trans": "Зеленый кадр чата (с анимацией)",
+ 	 	 	 	 	"trans": "Зеленая рамка чата (с анимацией)",
  	 	 	 	 	"eng": "Green Chat Frame (with animation)"
  	 	 	 	},
  	 	 	 	"4": {
@@ -4704,7 +4703,7 @@
  	 	 	 	 	"eng": "Customize gang motto"
  	 	 	 	},
  	 	 	 	"8": {
- 	 	 	 	 	"trans": "Настроить жмблему банды",
+ 	 	 	 	 	"trans": "Настроить эмблему банды",
  	 	 	 	 	"eng": "Customize gang image"
  	 	 	 	},
  	 	 	 	"9": {
@@ -5007,7 +5006,7 @@
  	 	 	"eng": "of Bargaining"
  	 	},
  	 	"power": {
- 	 	 	"trans": "власти",
+ 	 	 	"trans": "силы",
  	 	 	"eng": "of Power"
  	 	},
  	 	"health": {
